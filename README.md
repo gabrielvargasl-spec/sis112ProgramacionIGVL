@@ -9,9 +9,9 @@ Cada estudiante debe clonar o hacer fork de este repositorio y trabajar en su pr
 
 Completar con tus datos:
 
-- **Nombre:**  
-- **Carrera:**  
-- **Correo institucional:**  
+- **Nombre: Gabriel Vargas Lema**  
+- **Carrera: Ing Mecatronica**  
+- **Correo institucional:@ucb.edu.bo**  
 - **Grupo:**  
 
 ---
